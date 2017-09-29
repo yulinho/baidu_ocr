@@ -1,5 +1,5 @@
 {
-    "name": "baidu_ocr/AipOcr",
+    "name": "baidu_ocr/aip-ocr",
     "type": "library",
     "description": "Qiniu Resource (Cloud) Storage SDK for PHP",
     "keywords": ["qiniu", "storage", "sdk", "cloud"],
