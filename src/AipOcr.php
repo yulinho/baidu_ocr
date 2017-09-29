@@ -16,7 +16,7 @@
 */
 
 namespace baidu_ocr;
-
+use baidu_ocr\lib\AipBase;
 // require_once 'lib/AipBase.php';
 
 /**
