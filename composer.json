@@ -1,0 +1,26 @@
+{
+    "name": "baidu_ocr",
+    "type": "library",
+    "description": "Qiniu Resource (Cloud) Storage SDK for PHP",
+    "keywords": ["qiniu", "storage", "sdk", "cloud"],
+    "homepage": "http://developer.qiniu.com/",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "baidu_ocr",
+            "email": "sdk@qiniu.com",
+            "homepage": "http://www.qiniu.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3"
+    },
+    "require-dev-bak": {
+        "phpunit/phpunit": "~4.0",
+        "squizlabs/php_codesniffer": "~2.3"
+    },
+    "autoload": {
+        "psr-4": {"baidu_ocr\\": "src"},
+        "files": ["src/AipOcr.php"]
+    }
+}
