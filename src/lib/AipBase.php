@@ -14,10 +14,11 @@
 * License for the specific language governing permissions and limitations under
 * the License.
 */
+namespace baidu_ocr\lib;
 
-require_once 'AipHttpClient.php';
-require_once 'AipBCEUtil.php';
-require_once 'AipImageUtil.php';
+// require_once 'AipHttpClient.php';
+// require_once 'AipBCEUtil.php';
+// require_once 'AipImageUtil.php';
 
 /**
  * Aip Base 基类

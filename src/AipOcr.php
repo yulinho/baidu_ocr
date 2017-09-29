@@ -17,7 +17,7 @@
 
 namespace baidu_ocr;
 
-require_once 'lib/AipBase.php';
+// require_once 'lib/AipBase.php';
 
 /**
  * 文字OCR
